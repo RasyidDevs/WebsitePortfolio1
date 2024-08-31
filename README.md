@@ -7,11 +7,13 @@
 <h2 align="center">
     ❓❓ How to run this project ❓❓
 </h2>
-<div align="left">
+<details>
+    <summary>Step by Step Process</summary>
+    <div align="left">
     
     1. Download this project
     
-    2. Download xampp or laragon to run the project
+    2. Download xampp or laragon to and run apache and mySQL 
 
     3. Put this folder project  on laragon/www or xampp/htdocs
 
@@ -33,6 +35,8 @@
 
     12. paste to your browser
 </div>
+</details>
+
 
 <h2 align="center">
   👨‍💻 Tools // Frameworks // Languages 👨‍💻
