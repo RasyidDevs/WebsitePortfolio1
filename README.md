@@ -7,7 +7,7 @@
 <h2 align="center">
     ❓❓ How to run this project ❓❓
 </h2>
-<div>
+<div align="left">
     
     1. Download this project
     
