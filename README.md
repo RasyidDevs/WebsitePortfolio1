@@ -34,6 +34,9 @@
     11. php artisan serve + copy the (http://127.0.0.1:8000)
 
     12. paste to your browser
+
+    OR GO TO MY YOUTUBE VIDEO TO WATCH THE TUTORIAL
+
 </div>
 </details>
 
