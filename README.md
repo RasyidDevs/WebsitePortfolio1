@@ -39,7 +39,7 @@
 </h2>
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,laravel,php,mysql,vscode&perline=6" alt="Skills Icons"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,laravel,php,mysql,vscode&perline=6" alt="Skills Icons"/>
   </a>
 </div>
 <br>
